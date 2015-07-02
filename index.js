@@ -12,7 +12,7 @@ var inputor = require('nd-inputor');
 
 var Smiley = module.exports = Tip.extend({
 
-  Plugins: [require('./src/nmoji'), require('./src/emoji')],
+  Plugins: [require('./src/nmoji/index'), require('./src/emoji/index')],
 
   attrs: {
     // classPrefix 留给 tabs 用
