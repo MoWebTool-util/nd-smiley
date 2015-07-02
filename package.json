@@ -23,7 +23,7 @@
       "nd-inputor": "0.0.0",
       "nd-selection": "0.0.0",
       "nd-selector": "1.0.0",
-      "nd-tabs": "1.0.0",
+      "nd-switchable": "1.0.0",
       "nd-tip": "1.0.0"
     },
     "devDependencies": {
