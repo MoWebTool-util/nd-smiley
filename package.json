@@ -1,0 +1,33 @@
+{
+  "name": "nd-smiley",
+  "version": "1.0.0",
+  "description": "表情输入工具",
+  "keywords": [],
+  "homepage": "https://github.com/ndfront/nd-smiley",
+  "author": {
+    "name": "crossjs",
+    "email": "liwenfu@crossjs.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ndfront/nd-smiley.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ndfront/nd-smiley/issues"
+  },
+  "licenses": "MIT",
+  "devDependencies": {},
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "nd-inputor": "0.0.0",
+      "nd-selection": "0.0.0",
+      "nd-selector": "1.0.0",
+      "nd-tabs": "1.0.0",
+      "nd-tip": "1.0.0"
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+<div class="{{classPrefix}}">
+  <ul data-role="nav">
+    {{#each groups}}
+      <li data-role="nav-{{id}}">{{name}}</li>
+    {{/each}}
+  </ul>
+  <div data-role="content">
+    {{#each groups}}
+      <div data-role="panel-{{id}}"></div>
+    {{/each}}
+  </div>
+</div>
