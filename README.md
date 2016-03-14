@@ -1,13 +1,15 @@
 # nd-smiley
 
-[![spm version](http://spm.crossjs.com/badge/nd-smiley)](http://spm.crossjs.com/package/nd-smiley)
+[![Travis](https://img.shields.io/travis/ndfront/nd-smiley.svg?style=flat-square)](https://github.com/ndfront/nd-smiley)
+[![Coveralls](https://img.shields.io/coveralls/ndfront/nd-smiley.svg?style=flat-square)](https://github.com/ndfront/nd-smiley)
+[![NPM version](https://img.shields.io/npm/v/nd-smiley.svg?style=flat-square)](https://npmjs.org/package/nd-smiley)
 
 > 表情输入工具
 
 ## 安装
 
 ```bash
-$ spm install nd-smiley --save
+$ npm install nd-smiley --save
 ```
 
 ## 使用
